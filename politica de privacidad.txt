@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Agrolunar</title>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p><strong>Última actualización:</strong> 2 de noviembre de 2024</p>
+
+    <h2>Introducción</h2>
+    <p>En Agrolunar, nos comprometemos a proteger tu privacidad. Esta política describe cómo recopilamos, usamos y protegemos la información de los usuarios en nuestra aplicación, que proporciona orientación sobre actividades agrícolas en función de las fases lunares y también incluye anuncios de AdMob.</p>
+
+    <h2>1. Información que Recopilamos</h2>
+    <p>Nuestra aplicación no recopila información personal identificable de los usuarios. Sin embargo, utilizamos servicios de terceros, como AdMob, que pueden recopilar ciertos datos para mostrar anuncios personalizados.</p>
+
+    <h2>2. Anuncios</h2>
+    <p>Utilizamos AdMob para mostrar anuncios en nuestra aplicación. AdMob puede recopilar información sobre tu dispositivo y tus actividades en la aplicación para personalizar los anuncios que ves. Para obtener más detalles sobre cómo AdMob maneja los datos, consulta la <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidad de AdMob</a>.</p>
+
+    <h2>3. Uso de la Información</h2>
+    <p>La información no personal que obtenemos de AdMob se utiliza únicamente para mejorar la experiencia de usuario y para mostrar anuncios más relevantes.</p>
+
+    <h2>4. Seguridad de la Información</h2>
+    <p>Nos comprometemos a proteger la información que recopilamos. Implementamos medidas de seguridad para prevenir el acceso no autorizado a los datos de los usuarios.</p>
+
+    <h2>5. Cambios en esta Política de Privacidad</h2>
+    <p>Podemos actualizar nuestra política de privacidad en cualquier momento. Te notificaremos sobre cualquier cambio publicando la nueva política de privacidad en esta página.</p>
+
+    <h2>6. Contacto</h2>
+    <p>Si tienes alguna pregunta sobre esta política de privacidad, puedes ponerte en contacto con nosotros en appsagricolas6@gmail.com.</p>
+</body>
+</html>
